@@ -11,3 +11,6 @@ header {
   display: flex;
   justify-content: space-around;
 }
+.cabealho.lista.item{ 
+  display: inline-block;
+}
